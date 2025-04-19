@@ -1,4 +1,3 @@
-Absolutely — here's a polished, RFI-ready `README.md` that clearly explains what your script does, how to run it, and how it demonstrates your understanding of fingerprint segmentation:
 
 ---
 
